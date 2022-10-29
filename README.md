@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @horchval
-- 🌱 I’m currently learning Web development with Javascript and Python
 - 📫 How to reach me: horakova.chvalova@gmail.com
 
 <!---
